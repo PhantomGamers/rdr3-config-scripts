@@ -10,4 +10,7 @@ Hardware Unboxed's Optimised settings from https://www.youtube.com/watch?v=385eG
 ### Xbox One X.ps1
 Digital Foundry's best estimation for Xbox One X's settings from https://www.youtube.com/watch?v=D1iNSyvIPaY&t=1566s
 
-*Spreadsheets for both can be found at https://docs.google.com/spreadsheets/d/1zByNr2qZboRIFK-A8qHtjymC4b7u-zGvZM0IO-damS8/edit#gid=0
+### Game Debate Optimised.ps1
+Game Debate's optimised settings from https://www.game-debate.com/news/27926/red-dead-redemption-2-best-pc-graphics-settings-for-optimised-performance
+
+*Spreadsheets for all can be found at https://docs.google.com/spreadsheets/d/1wO_0WFNdc_Ov53Ofs4Xt30EujH1UqV6xyZrE3X_PDcU/edit?usp=sharing
