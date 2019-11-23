@@ -33,7 +33,7 @@ $system.rage__fwuiSystemSettingsCollection.advancedGraphics.ssaoFullScreenEnable
 $system.rage__fwuiSystemSettingsCollection.advancedGraphics.waterRefractionQuality = "kSettingLevel_Medium"
 $system.rage__fwuiSystemSettingsCollection.advancedGraphics.waterReflectionQuality = "kSettingLevel_High"
 $system.rage__fwuiSystemSettingsCollection.advancedGraphics.waterSimulationQuality.value = "2"
-$system.rage__fwuiSystemSettingsCollection.advancedGraphics.waterLightingQuality = "kSettingLevel_High"
+$system.rage__fwuiSystemSettingsCollection.advancedGraphics.waterLightingQuality = "kSettingLevel_Medium"
 $system.rage__fwuiSystemSettingsCollection.advancedGraphics.scalingMode = "kSettingScale_Mode1o1"
 # $system.rage__fwuiSystemSettingsCollection.advancedGraphics.sharpenIntensity.value = "0"
 $system.rage__fwuiSystemSettingsCollection.advancedGraphics.motionBlur.value = "false"
